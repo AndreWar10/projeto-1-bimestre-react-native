@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b930b7&size=40&center=true&vCenter=true&width=1000&lines=Trabalho+Bimestral+Rick+And+Morthy)](https://git.io/typing-svg)
 
 <br/>
-<div> 
-  <strong>Trabalho Bimestral Rick And Morthy</strong>
-</div>
 
 <div>
 Repositório para um projeto do primeiro bimestre de Programação p/ dispositivos móveis
@@ -24,7 +21,7 @@ VINICIUS VICENTE AVILA
  
   #
   
-  https://user-images.githubusercontent.com/70041862/227690470-58ba313d-bb10-46c9-b336-02b33d4e176e.mp4
+  https://github.com/AndreWar10/projeto-1-bimestre-react-native/blob/main/work-xandy/assets/example.mov
 
   #
 
