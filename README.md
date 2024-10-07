@@ -21,7 +21,7 @@ VINICIUS VICENTE AVILA
  
   #
   
-  https://github.com/AndreWar10/projeto-1-bimestre-react-native/blob/main/work-xandy/assets/example.mov
+  https://github.com/AndreWar10/projeto-1-bimestre-react-native/blob/main/work-xandy/assets/example%20(1).mp4
 
   #
 
