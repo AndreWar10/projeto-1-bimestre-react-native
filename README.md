@@ -20,8 +20,9 @@ VINICIUS VICENTE AVILA
  </div>
  
   #
-  
-  https://github.com/AndreWar10/projeto-1-bimestre-react-native/blob/main/work-xandy/assets/example%20(1).mp4
+
+  Demonstração: 
+  https://drive.google.com/file/d/1POma1Llar5EyJWYHUC2p_4OjBxHI_-PC/view?usp=sharing
 
   #
 
